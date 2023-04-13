@@ -20,7 +20,3 @@ st.write(data.head(50))
 
 
 chart = st.line_chart(data.iloc[:,[1,2,3]])
-
-# for i in range(data.shape[0]):
-#     chart.add_rows(data.iloc[i,1])
-#     time.sleep(0.05)
