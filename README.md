@@ -3,3 +3,12 @@
 ## 效果图
 
 ![image](image/1.png)
+
+
+
+## 执行命令
+
+```python
+streamlit run iris.py
+```
+
